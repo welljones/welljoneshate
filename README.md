@@ -1,0 +1,5 @@
+- 👋 Hey there! I'm Welljones.
+- Currently immersed in the world of programming and focusing on web development.
+- Passionate about crafting unique experiences on the web.
+- Always eager to collaborate and learn from fellow programmers.
+- Let's join forces to enhance our skills and create amazing things together! 🚀🌐.
